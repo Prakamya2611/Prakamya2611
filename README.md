@@ -114,7 +114,7 @@ Live GPS tracking system with Firebase integration.
 # 📫 Connect With Me
 
 📧 Email: [prakamya26112005@gmail.com](mailto:prakamya26112005@gmail.com)
-💼 LinkedIn: (add your link here)
+💼 LinkedIn: https://www.linkedin.com/in/prakamya-srivastav-971463282/
 💻 GitHub: https://github.com/Prakamya2611
 
 ---
