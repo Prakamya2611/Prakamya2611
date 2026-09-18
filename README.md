@@ -17,7 +17,7 @@ I enjoy turning complex real-world problems into **efficient, production-ready s
 
 # 🔥 About Me
 
-* 🎓 B.Tech CSE (Gaming Technology) @ VIT (CGPA: 8.4)
+* 🎓 B.Tech CSE (Gaming Technology) @ VIT (CGPA: 8.53)
 * 🧠 Focus: AI Systems, Backend Engineering, System Design
 * ⚡ Built systems processing **500+ logs/day** and **15,000+ data points/session**
 * 🎯 Actively seeking **Software Engineering & AI internships**
